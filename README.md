@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter and Java**
 
-- 💬 Ask me about **PHP, HTML, CSS, WordPress**
+- 💬 Ask me about **PHP, HTML, CSS, WordPress, Selenium**
 
 - 📫 How to reach me **supeshalagunasekara@gmail.com**
 
