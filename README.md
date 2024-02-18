@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udithgunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="udithgunasekara" /> </p>
 
-- 🔭 I’m currently working on **Project Perfect-friends**
+- 🔭 I’m currently working on **Project Perfect-friends and Project Amac**
 
 - 🌱 I’m currently learning **Flutter and Java**
 
